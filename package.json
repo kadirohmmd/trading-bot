@@ -1,0 +1,10 @@
+{
+  "name": "trading-bot-fvg",
+  "version": "1.0.0",
+  "description": "FVG Trading Bot for Binance Futures",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "type": "module"
+}

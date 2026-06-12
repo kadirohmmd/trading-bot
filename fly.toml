@@ -1,0 +1,8 @@
+app = "bot-ttogda"
+primary_region = "ams"
+
+[build]
+  image = "node:20-alpine"
+
+[processes]
+  app = "node bot.js"
